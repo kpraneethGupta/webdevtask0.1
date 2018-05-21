@@ -1,4 +1,4 @@
-praneeth 107117052
+gupta 107117052
 bubble sort algorithm
 #include <stdio.h>
 int main()
